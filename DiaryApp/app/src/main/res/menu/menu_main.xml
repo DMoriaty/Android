@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="查找"
+        android:showAsAction="never"
+        android:orderInCategory="100"
+        android:id="@+id/action_search"/>
+
+    <item
+        android:title="添加"
+        android:showAsAction="never"
+        android:orderInCategory="100"
+        android:id="@+id/action_insert"/>
+
+</menu>
